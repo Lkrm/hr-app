@@ -1,9 +1,9 @@
 {
-  "appendMainRouter": {
-    "0": {
-      "routePath": "Humen Resourses",
+  "appendMainRouter": [
+    {
+      "routePath": "human-resources",
       "componentName": "HrComponent",
       "componentPath": "src/components/HrComponent.js"
     }
-  }
+  ]
 }
