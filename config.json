@@ -3,7 +3,7 @@
     "0": {
       "routePath": "Humen Resourses",
       "componentName": "HrComponent",
-      "componentPath": "components/HrComponent.js"
+      "componentPath": "src/components/HrComponent.js"
     }
   }
 }
